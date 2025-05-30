@@ -31,12 +31,14 @@ body{
     margin-top: 0;
 }
 
+
 .app h1, .lobby h1{
     font-weight: 25px;
-    color: blue;
+    color: #3C342D;
     font-weight: 600;
     border-bottom: 1px solid #333;
     padding-bottom: 30px;
+    font-size: 25px;
 }
 
 .quiz{
@@ -104,4 +106,25 @@ body{
 
 .incorrect {
     background-color: rgb(233, 105, 105);
+}
+
+.regras ul{
+    list-style-type: none;
+}
+.regras li, p{
+    margin: 5px;
+}
+
+.regras{
+    margin: 10px;
+}
+
+.regras H3{
+    margin: 10px;
+    color: blue;
+}
+
+.regras h4{
+    color: red;
+    font-size: 1rem;
 }
