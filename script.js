@@ -1,22 +1,137 @@
 const questions = [
     {
-        question: "Quem é o melhor aluno do Senac",
+        question: "pergunta",
         answers: [
-            { id: 1, text: "Sabrina", correct: false },
-            { id: 2, text: "Matheus", correct: false },
-            { id: 3, text: "Kauê", correct: true },
-            { id: 4, text: "Guilherme", correct: false },
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
         ]
     },
 
     {
-        question: "Quem é o aluno que não gosta de molho de alho no seu Hambúrguer?",
+        question: "pergunta",
         answers: [
-            { id: 1, text: "Sabrina", correct: false },
-            { id: 2, text: "Matheus", correct: true },
-            { id: 3, text: "Kauê", correct: false },
-            { id: 4, text: "Guilherme", correct: false },
-        ],
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+    
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
+    },
+
+    {
+        question: "pergunta",
+        answers: [
+            { id: 1, text: "Agrega valor", correct: false },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
+            { id: 3, text: "Não agrega valor", correct: true },
+        ]
     },
 
 ]
