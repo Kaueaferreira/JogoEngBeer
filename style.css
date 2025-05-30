@@ -108,9 +108,6 @@ body{
     background-color: rgb(233, 105, 105);
 }
 
-.regras ul{
-    list-style-type: none;
-}
 .regras li, p{
     margin: 5px;
 }
