@@ -3,8 +3,8 @@ const questions = [
         question: "Sobre o controle de qualidade, no qual envolve testes como o de iodo (para verificar a conversão dos amidos), medição do pH (para acompanhar a acidez) e densidade (para monitorar a fermentação e teor alcoólico), garantindo um produto consistente e seguro. Esse processo:",
         answers: [
             { id: 1, text: "Agrega valor", correct: false },
-            { id: 2, text: "Não agrega valor mais é necessário", correct: false },
-            { id: 3, text: "Não agrega valor", correct: true },
+            { id: 2, text: "Não agrega valor mais é necessário", correct: true },
+            { id: 3, text: "Não agrega valor", correct: false },
         ]
     },
 
